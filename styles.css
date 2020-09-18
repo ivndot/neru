@@ -146,14 +146,14 @@ body {
 }
 
 .main .presentation .main-info .img-info {
-    background-image: url(./img/lady.jpg);
-    width: 100%;
+    /* background-image: url(./img/lady.jpg); */
+    width: 500px;
     height: 350px;
     /* max-height: 600px; */
-    background-position: center;
+    /* background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    position: relative; */
     border-radius: 5px;
     box-shadow: -5px 5px 10px #c2c2c2;
 }
@@ -174,18 +174,12 @@ body {
 /*
     INFO ONE
 */
-.main .presentation .one .img-info {
-    background-image: url(./img/lady.jpg);
-}
 .main .presentation .one .content-info {
     padding: 10px 20px 10px 20px;
 }
 /*
     INFO TWO
 */
-.main .presentation .two .img-info {
-    background-image: url(./img/man.jpg);
-}
 
 .main .presentation .two .content-info {
     padding: 10px 20px 10px 0px;
@@ -256,7 +250,7 @@ body {
 
 .main .options .options-content > img {
     border-radius: 5px 5px 0 0;
-    width: 100%;
+    width: 392px;
     height: 250px;
 }
 
